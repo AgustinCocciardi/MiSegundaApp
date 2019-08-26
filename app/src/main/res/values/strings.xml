@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MiSegundaApp</string>
+    <string name="txt_View_String">Estatus del Alumno</string>
+    <string name="editText_ViewNumber_String">Matemáticas</string>
+    <string name="editText2_ViewNumber_String">Química</string>
+    <string name="editText3_ViewNumber_String">Física</string>
+    <string name="button">Evaluar</string>
 </resources>
